@@ -4,42 +4,42 @@
 ## Order of Operations Practice
 **Instructions:** Evaluate the following expressions.  You can answer either in this README file, in your own notebook, or on a separate piece of paper.
 ### Part 1
-a. 3 * (7 - 4) + 6 / 2
+a. 3 * (7 - 4) + 6 / 2 = 12
 
-b. ((12 / 3) * (7 - 5) + 4) / 2
+b. ((12 / 3) * (7 - 5) + 4) / 2 = 6
 
-c. (5 + 2) * (8 - 3) % 2
+c. (5 + 2) * (8 - 3) % 2 = 1
 
-d. (15 % 4) + (5 / 2) - (3 * 2)
+d. (15 % 4) + (5 / 2) - (3 * 2)  = -1
 
-e. 5 * 2 + 4 / 2 % 3
+e. 5 * 2 + 4 / 2 % 3 = 12
 
-f. (18 - 12) % 3 * (5 - 3 + 2)
+f. (18 - 12) % 3 * (5 - 3 + 2) = 0
 
-g. 6 % (8 - 6 + 2) - (3 * 3) / 3
+g. 6 % (8 - 6 + 2) - (3 * 3) / 3 = -1
 
-h. (12 % (5 / 2)) * 3 + (7 - 4)
+h. (12 % (5 / 2)) * 3 + (7 - 4) = 3
 
-i. (14 / 2) * 3 + 6 % 2
+i. (14 / 2) * 3 + 6 % 2 = 21
 
-j. ((15 % 3) / 3) * (7 - 4) + 5
+j. ((15 % 3) / 3) * (7 - 4) + 5 = 5
 
-### Part 2
-a. 5.5 * (3 + 1) - 2 / 2.0
+### Part 2 
+a. 5.5 * (3 + 1) - 2 / 2.0 = 21.0
 
-b. 8 % 3 + (4.5 * 2) - 1 / 2.0
+b. 8 % 3 + (4.5 * 2) - 1 / 2.0 = 9.5
 
-c. (7 / 2.0) * (4 + 3.5) - 6 % 2
+c. (7 / 2.0) * (4 + 3.5) - 6 % 2 = 26.25
 
-d. (8 - 4) / 3 * 3.5 + 6 / 2.0
+d. (8 - 4) / 3 * 3.5 + 6 / 2.0 = 6.5
 
-e. (9 - 3.5) * 2 * (7 - 5.5) + 4.0 / 8
+e. (9 - 3.5) * 2 * (7 - 5.5) + 4.0 / 8 = 7
 
-f. 3.0 * (6 / 2) % 2 + (5 - 3.5)
+f. 3.0 * (6 / 2) % 2 + (5 - 3.5) = 4.5
 
-g. (9 - 4) / 2.0 * (8 - 4) - 5 / 2
+g. (9 - 4) / 2.0 * (8 - 4) - 5 / 2 = 8
 
-h. (5 / 2.0) * (7 - 4.5) + 6 % 2
+h. (5 / 2.0) * (7 - 4.5) + 6 % 2 
 
 i. (6.5 - 3) / 2 * (7 - 4) + 5 % 2
 
@@ -52,7 +52,7 @@ Make a program that creates two variables: an int and a double.  Follow these in
 3. Run your program and observe the result.
 4. Create a variable of type `int` and store a double value into it.
 5. Print out the value of the variable.
-6. Run myour program and observe the result.
+6. Run your program and observe the result.
 
 Is it possible to store a double into an int?  Is it possible to store an int into a double?  Explain.
 
