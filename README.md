@@ -33,17 +33,17 @@ c. (7 / 2.0) * (4 + 3.5) - 6 % 2 = 26.25
 
 d. (8 - 4) / 3 * 3.5 + 6 / 2.0 = 6.5
 
-e. (9 - 3.5) * 2 * (7 - 5.5) + 4.0 / 8 = 7
+e. (9 - 3.5) * 2 * (7 - 5.5) + 4.0 / 8 = 17.0
 
-f. 3.0 * (6 / 2) % 2 + (5 - 3.5) = 4.5
+f. 3.0 * (6 / 2) % 2 + (5 - 3.5) = 2.5
 
-g. (9 - 4) / 2.0 * (8 - 4) - 5 / 2 = 8
+g. (9 - 4) / 2.0 * (8 - 4) - 5 / 2 = 8.0
 
-h. (5 / 2.0) * (7 - 4.5) + 6 % 2 
+h. (5 / 2.0) * (7 - 4.5) + 6 % 2 = 6.25
 
-i. (6.5 - 3) / 2 * (7 - 4) + 5 % 2
+i. (6.5 - 3) / 2 * (7 - 4) + 5 % 2 = 6.25
 
-j. 3 * (5 / 2) % 2 + (7 - 3.0) / 2.0
+j. 3 * (5 / 2) % 2 + (7 - 3.0) / 2.0 = 2.0
 
 ## Problem0
 Make a program that creates two variables: an int and a double.  Follow these instructions in the exact order below.
@@ -55,6 +55,7 @@ Make a program that creates two variables: an int and a double.  Follow these in
 6. Run your program and observe the result.
 
 Is it possible to store a double into an int?  Is it possible to store an int into a double?  Explain.
+It's not possible to store a double into an int but is possible to store an int into double because doubles use up more storage than ints, so adding an int into a double doesn't cause an overflow error.
 
 ## Problem1
 Write a program that takes a single integer and stores it in a variable. Your program should increase the value of this variable by one four times, printing "number is now " followed by its value each time, then decrease it by one four times, again printing "number is now " and the value each time. You must use unary operators to increase/decrease the value of the variable to receive full credit for this assignment.
